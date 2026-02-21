@@ -135,12 +135,3 @@
 </p>
 
 Practicing offensive security in controlled lab environments. Current focus spans privilege escalation, web application vulnerabilities (XSS, SQLi), authentication bypass, Linux exploitation, and network enumeration.
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IgyMed&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IgyMed&theme=tokyonight" />
-</p>
