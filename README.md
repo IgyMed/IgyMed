@@ -141,5 +141,6 @@ Practicing offensive security in controlled lab environments. Current focus span
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgyMed&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4af2a1&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IgyMed&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IgyMed&theme=tokyonight" />
 </p>
