@@ -93,8 +93,8 @@
 
 | Area | Detail |
 |---|---|
-| Frontend | Angular 21 SPA with Serbian / English support |
-| Backend | Spring Boot 4 REST API with layered architecture |
+| Frontend | Angular SPA with Serbian / English support |
+| Backend | Spring Boot REST API with layered architecture |
 | Auth | JWT auth, refresh token cookies, email verification, password reset |
 | Features | booking flow, trainer scheduling, services, memberships |
 | Database | PostgreSQL with JPA / Hibernate |
