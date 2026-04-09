@@ -88,7 +88,7 @@
 > Full-stack fitness platform with a public marketing site, secure user and trainer dashboards, appointment booking, memberships, and bilingual support.
 
 <p>
-  <a href="https://github.com/IgyMed/holistic-fitness-website"><b>View Repository</b></a>
+  <a href="https://github.com/IgyMed/SaaS"><b>View Repository</b></a>
 </p>
 
 | Area | Detail |
