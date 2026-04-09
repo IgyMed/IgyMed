@@ -82,24 +82,29 @@
 ---
 
 <details>
-<summary><b>&nbsp;02 &mdash; Gym Studio SaaS Platform</b></summary>
+<summary><b>&nbsp;02 &mdash; Holistic Fitness Website</b></summary>
 <br>
 
-> Secure SaaS platform for a gym studio with role-based access control and token-based authentication.
+> Full-stack fitness platform with a public marketing site, secure user and trainer dashboards, appointment booking, memberships, and bilingual support.
+
+<p>
+  <a href="https://github.com/IgyMed/holistic-fitness-website"><b>View Repository</b></a>
+</p>
 
 | Area | Detail |
 |---|---|
-| Auth | JWT & OAuth2 authentication |
-| Persistence | JPA-based persistence layer |
-| API | Clean REST architecture |
-| Structure | Production-oriented backend patterns |
+| Frontend | Angular 21 SPA with Serbian / English support |
+| Backend | Spring Boot 4 REST API with layered architecture |
+| Auth | JWT auth, refresh token cookies, email verification, password reset |
+| Features | booking flow, trainer scheduling, services, memberships |
+| Database | PostgreSQL with JPA / Hibernate |
 
 <p>
+  <img src="https://img.shields.io/badge/Angular-0a1628?style=flat-square&logo=angular&logoColor=dd0031" />
+  <img src="https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=3178c6" />
   <img src="https://img.shields.io/badge/Java_Spring_Boot-0a1628?style=flat-square&logo=springboot&logoColor=4af2a1" />
   <img src="https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=4a90d9" />
-  <img src="https://img.shields.io/badge/Docker-0a1628?style=flat-square&logo=docker&logoColor=2496ed" />
   <img src="https://img.shields.io/badge/JWT-0a1628?style=flat-square&logo=jsonwebtokens&logoColor=ff6464" />
-  <img src="https://img.shields.io/badge/OAuth2-0a1628?style=flat-square&logo=auth0&logoColor=f48c06" />
 </p>
 
 </details>
