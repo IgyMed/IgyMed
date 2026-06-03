@@ -1,142 +1,23 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a1628,100:0d0d0d&height=200&section=header&text=Igy&fontSize=42&fontColor=4af2a1&fontAlignY=38&desc=systems%20%2F%20security%20%2F%20backend&descAlignY=60&descSize=14&descColor=4a90d9&animation=fadeIn" />
-</p>
+# Igy
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=4AF2A1&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Backend+%26+Systems+Developer;Cybersecurity+Practitioner;Building+things+that+don%27t+break" alt="Typing SVG" />
-</p>
-
----
-
-<table align="center"><tr><td>
-
-```
-┌─────────────────────────────────────────────────┐
-│  igy@dev:~$ whoami                              │
-│                                                 │
-│  > CS student. Backend engineer. Security       │
-│    enthusiast. I care about how software        │
-│    works beneath the abstraction.               │
-│                                                 │
-│                                                 │
-│  > Focus on clean Architecture.                 │
-│                                                 │
-│  igy@dev:~$ █                                   │
-└─────────────────────────────────────────────────┘
-```
-
-</td></tr></table>
-
----
-
-## Focus Areas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-0a1628?style=flat-square&logo=hackthebox&logoColor=4af2a1" />
-  <img src="https://img.shields.io/badge/Backend_Development-0a1628?style=flat-square&logo=spring&logoColor=4a90d9" />
-  <img src="https://img.shields.io/badge/Software_Architecture-0a1628?style=flat-square&logo=diagrams.net&logoColor=f48c06" />
-  <img src="https://img.shields.io/badge/Performance_%26_Optimization-0a1628?style=flat-square&logo=speedtest&logoColor=ff6464" />
-</p>
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-0a1628?style=for-the-badge&logo=c&logoColor=4a90d9" />
-  <img src="https://img.shields.io/badge/Java-0a1628?style=for-the-badge&logo=openjdk&logoColor=f48c06" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0a1628?style=for-the-badge&logo=springboot&logoColor=4af2a1" />
-  <img src="https://img.shields.io/badge/JavaScript-0a1628?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0a1628?style=for-the-badge&logo=postgresql&logoColor=4a90d9" />
-  <img src="https://img.shields.io/badge/Docker-0a1628?style=for-the-badge&logo=docker&logoColor=2496ed" />
-  <img src="https://img.shields.io/badge/Linux-0a1628?style=for-the-badge&logo=linux&logoColor=fcc624" />
-  <img src="https://img.shields.io/badge/Git-0a1628?style=for-the-badge&logo=git&logoColor=f1502f" />
-</p>
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>&nbsp;01 &mdash; Makeup Studio SaaS Platform</b></summary>
-<br>
-
-> Production-ready full-stack SaaS solution built for a local makeup studio — authentication, booking management, containerized deployment.
-
-| Area | Detail |
-|---|---|
-| Architecture | RESTful API with clean layered structure |
-| Auth | Secure authentication flow |
-| Infrastructure | Containerized deployment via Docker |
-| Database | Structured relational schema with PostgreSQL |
+CS Student @ JKU Linz &nbsp;·&nbsp; Backend & Security
 
 <p>
-  <img src="https://img.shields.io/badge/Java_Spring_Boot-0a1628?style=flat-square&logo=springboot&logoColor=4af2a1" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=4a90d9" />
-  <img src="https://img.shields.io/badge/Docker-0a1628?style=flat-square&logo=docker&logoColor=2496ed" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-0a1628?style=flat-square&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/C-555?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-555?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-555?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-555?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-555?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-555?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
-</details>
+### Projects
 
----
+- **[Holistic Fitness Platform](https://github.com/IgyMed/SaaS)** — Angular + Spring Boot, JWT auth, bookings & memberships
+- **Makeup Studio SaaS** — booking platform, layered REST API, Dockerized
+- **Health Dataset Visualization** — interactive cardiovascular risk explorer
 
-<details>
-<summary><b>&nbsp;02 &mdash; Holistic Fitness Website</b></summary>
-<br>
+### Security
 
-> Full-stack fitness platform with a public marketing site, secure user and trainer dashboards, appointment booking, memberships, and bilingual support.
-
-<p>
-  <a href="https://github.com/IgyMed/SaaS"><b>View Repository</b></a>
-</p>
-
-| Area | Detail |
-|---|---|
-| Frontend | Angular SPA with Serbian / English support |
-| Backend | Spring Boot REST API with layered architecture |
-| Auth | JWT auth, refresh token cookies, email verification, password reset |
-| Features | booking flow, trainer scheduling, services, memberships |
-| Database | PostgreSQL with JPA / Hibernate |
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-0a1628?style=flat-square&logo=angular&logoColor=dd0031" />
-  <img src="https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/Java_Spring_Boot-0a1628?style=flat-square&logo=springboot&logoColor=4af2a1" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=4a90d9" />
-  <img src="https://img.shields.io/badge/JWT-0a1628?style=flat-square&logo=jsonwebtokens&logoColor=ff6464" />
-</p>
-
-</details>
-
----
-
-<details>
-<summary><b>&nbsp;03 &mdash; Health Dataset Visualization</b></summary>
-<br>
-
-> Interactive visualization comparing cardiovascular risk factors across countries and age groups. Built for exploratory data analysis.
-
-| Area | Detail |
-|---|---|
-| UI | Data-driven interactive design |
-| Features | Filtering & cross-country comparison |
-| Data | Structured dataset transformation pipeline |
-
-<p>
-  <img src="https://img.shields.io/badge/Observable-0a1628?style=flat-square&logo=observable&logoColor=ff6464" />
-  <img src="https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-0a1628?style=flat-square&logo=html5&logoColor=f48c06" />
-</p>
-
-</details>
-
----
-
-## Cybersecurity
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-</p>
-
-Practicing offensive security in controlled lab environments. Current focus spans privilege escalation, web application vulnerabilities (XSS, SQLi), authentication bypass, Linux exploitation, and network enumeration.
+Offensive security practice on Hack The Box — web exploitation, privilege escalation, network enumeration.
