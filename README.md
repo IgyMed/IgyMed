@@ -14,6 +14,7 @@ CS Student @ JKU Linz &nbsp;·&nbsp; Backend & Security
 
 ### Projects
 
+- **[Secure TeleRS](https://github.com/IgyMed/Secure-TeleRS)** — Rust + C, HMAC, Integrity and Authenticity
 - **[Holistic Fitness Platform](https://github.com/IgyMed/SaaS)** — Angular + Spring Boot, JWT auth, bookings & memberships
 - **Makeup Studio SaaS** — booking platform, layered REST API, Dockerized
 - **Health Dataset Visualization** — interactive cardiovascular risk explorer
