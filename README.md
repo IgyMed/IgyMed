@@ -3,6 +3,7 @@
 CS Student @ JKU Linz &nbsp;·&nbsp; Backend & Security
 
 <p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C-555?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-555?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-555?style=flat-square&logo=spring&logoColor=white" />
